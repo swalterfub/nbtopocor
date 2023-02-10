@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbtopocor"
+  site-url: "https://swalterfub.github.io/nbtopocor"
+  description: "Topographic correction for remote sensing images"
+  repo-branch: main
+  repo-url: "https://github.com/swalterfub/nbtopocor"
